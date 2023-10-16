@@ -111,3 +111,5 @@ As long as you followed the instructions, and set up the base node right, replac
 I do ask that if you use this mod, or code, you add Lazy E Modding as a contributor to your mod. Don't be the person that doesn't do it, and ruins everything for everyone else. 
 
 You should reference Lazy E Modding in the author tab, and in any website, modDesc, or post, there should be a reference to Lazy E Modding for the bale monitor. All social posts should tag Lazy E Modding on the respective platforms. Giving credit is something that is easy, and should be done out of a sign of respect and thanks for the addition. 
+
+Credits for this mod can be found in the [Wiki, under the credits](https://github.com/Lazy-E-Modding/MonitorAddons/wiki/Credits).
