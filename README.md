@@ -1,5 +1,8 @@
 # Monitor Addons
 Expand the experience with custom monitors to add to your tractors and other vehicles for FS22. 
+
+## Bugs and Issues
+There is not really much with this mod that can be called a bug or issue as most issues will be on the installer, but if for some reason there is, support is given in [my Discord server](https://discord.gg/bZgCW7A). 
 ## Information
 
 The Monitor Addon Pack from Lazy E Modding currently includes:
